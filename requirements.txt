@@ -1,0 +1,13 @@
+langchain-groq
+langchain-community
+langchain-core
+faiss-cpu
+python-dotenv
+sentence-transformers
+langchain-huggingface
+python-dateutil
+protobuf
+streamlit
+torch
+datasets==3.1.0
+fsspec==2024.9.0
